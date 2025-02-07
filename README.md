@@ -1,7 +1,7 @@
 # 📊 Stock Market Analysis
 
 ## 🔍 Key Insights
-![Loan Type Analysis](images/loan_type_analysis.png)
+![Loan Type Analysis](https://github.com/Athu087/Bank-Loan-Analysis/blob/831e93463abae5d7f7a6198e97464660516deedc/img2rm.jpg)
 1️⃣ **Total Loan Amount & Interest Trends**  
    - 📊 The total loan disbursed across different loan types amounts to **₹27.35 billion**, indicating a significant level of financial activity.  
    - 🔽 The smallest loan issued is **₹26,500**, showcasing the availability of micro-loans.  
@@ -16,7 +16,7 @@
    - 📈 The burden of debt increases as individuals age, peaking at **35-44 years**, when financial responsibilities are typically the highest.  
    - 💸 The highest recorded debt stands at **₹14,133** for individuals aged **35-44**, indicating a potential area of financial stress.  
    - 💰 The highest average income of **₹8,486** is observed in the **45-54 years** age group, suggesting improved earnings over time.  
-![Debt Income Analysis](images/debt_income_analysis.png)
+![Debt Income Analysis](https://github.com/Athu087/Bank-Loan-Analysis/blob/831e93463abae5d7f7a6198e97464660516deedc/img1rm.jpg)
 
 4️⃣ **Regional Loan Distribution**  
    - 🌍 Certain regions show disproportionately high loan distribution, possibly influenced by economic activity, population density, or regional policies.  
@@ -29,15 +29,5 @@
 6️⃣ **Dashboard Overview & Insights**  
    - 📊 The dashboard provides a consolidated view of key performance indicators (KPIs) related to loan disbursal, borrower trends, and risk analysis.  
    - 🔍 It enables financial analysts and decision-makers to track interest rate variations and potential high-risk loan categories.  
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/Athu087/Bank-Loan-Analysis/blob/831e93463abae5d7f7a6198e97464660516deedc/dashboard.png)
 ---
-
-## 📷 Visualizations
-
-### Loan Type vs. Total Debt
-
-
-### Debt vs. Income by Age
-
-### 📊 Dashboard Overview
-
