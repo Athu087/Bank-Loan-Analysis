@@ -1,4 +1,4 @@
-# 📊 Stock Market Analysis
+# 📊 Bank Loan Analysis
 
 ## 🔍 Key Insights
 ![Loan Type Analysis](https://github.com/Athu087/Bank-Loan-Analysis/blob/831e93463abae5d7f7a6198e97464660516deedc/img2rm.jpg)
